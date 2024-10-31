@@ -1,8 +1,13 @@
 # GitHub Data Scraper
 
-- This project uses Python to interact with the GitHub API and fetch user and repository data for analysis.
-- Surprisingly, a significant number of repositories lack essential maintenance features, which might impact engagement.
-- Developers are advised to actively maintain and document their repositories to increase visibility and collaboration.
+## Interesting Findings
+1. The top users in Chicago demonstrated a strong presence in JavaScript, which was also the most popular programming language among developers who joined after 2020.
+2. Interestingly, despite the number of public repositories, the correlation between followers and repositories was relatively low (0.077), indicating other factors might contribute to follower counts.
+
+## Actionable Recommendations
+- Developers should focus on enhancing the quality of their bios, as a longer bio correlates with a higher follower count (slope of 3.048), potentially leading to greater visibility and connections.
+- Collaborating on projects with trending programming languages like JavaScript may increase engagement within the developer community, thus fostering networking opportunities.
+
 
 ## Project Overview
 
